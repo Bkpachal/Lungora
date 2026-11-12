@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://en-lungora.vercel.app/sitemap.xml
